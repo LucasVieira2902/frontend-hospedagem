@@ -1,0 +1,44 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.v-middle {
+    vertical-align: middle;
+}
+
+.senior-color {
+    background-color: rgb(24, 133, 110);
+}
+
+.button {
+    color: white;
+    background-color: #227bb3 !important;
+}
+
+mat-card {
+    margin-top: 16px !important;
+    display: flex;
+    padding: 0px 0px 16px 0px !important;
+}
+
+mat-card-header {
+    height: 100%;
+    width: 100%;
+    background-color: #227bb3;
+    color:white;
+    border-top-left-radius: 4px !important;
+    border-top-right-radius: 4px !important;
+}
+
+mat-card-title {
+    padding-top: 10px;
+    margin: 0px;
+    vertical-align: middle !important;
+    font-size: 18px !important;
+}
+
+mat-card-content {
+    border-bottom-left-radius: 4px !important;
+    border-bottom-right-radius: 4px !important;
+}

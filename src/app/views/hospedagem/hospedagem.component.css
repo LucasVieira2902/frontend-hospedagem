@@ -1,0 +1,32 @@
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+form {
+    width: 100%;
+}
+
+mat-form-field {
+    margin: 10px 20px 0px 0px;
+    width: 45%;
+}
+
+mat-card-footer{
+    margin: 0px 0px 10px 20px;
+}
+
+mat-card-content{
+    padding: 20px;
+}
+
+
+mat-radio-button {
+    margin: 5px 20px 0px 0px;
+}
+
+.button-pag {
+    margin-right: 15px;
+    border-radius: 20px;
+    vertical-align: middle !important;
+}

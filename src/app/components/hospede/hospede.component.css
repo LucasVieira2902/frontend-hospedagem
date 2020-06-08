@@ -1,0 +1,25 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin: 20px 15px 0px 0px;
+}
+
+mat-card-footer {
+    padding: 0px 0px 16px 30px;
+}
+
+mat-form-field {
+    margin: 10px 20px 0px 0px;
+    width: 45%;
+}
+
+mat-card-content {
+    padding: 20px;
+}
+
+table{
+    width: 100%;
+}
